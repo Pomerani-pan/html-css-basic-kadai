@@ -50,7 +50,7 @@ footer{
 a{
     color: rgb(255, 255, 255);
 }
-a:visitid{
+a:visited{
     color: rgb(193, 234, 251);
 }
 a:hover{
