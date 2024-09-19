@@ -64,4 +64,10 @@ a:hover{
         flex-basis: 100%;
         margin: 10px 0;
     }
+    h2{
+        font-size: 30px;
+    }
+    p{
+        font-size: 25px;
+    }
 }
